@@ -28,4 +28,14 @@
             </a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Splash_page">Заставка</a>
+        </td>
+        <td>
+            <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/splash-page">
+                splash-page
+            </a>
+        </td>
+    </tr>
 </table>
