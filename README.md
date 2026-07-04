@@ -18,4 +18,14 @@
             </a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://developer.mozilla.org/ru/docs/Learn_web_development/Core/Structuring_content/Structuring_a_page_of_content">Структурирование страницы</a>
+        </td>
+        <td>
+            <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/structuring-html">
+                structuring-html
+            </a>
+        </td>
+    </tr>
 </table>
