@@ -8,4 +8,14 @@
         <th>Задача</th>
         <th>Решение</th>
     </tr>
+    <tr>
+        <td>
+            <a href="https://developer.mozilla.org/ru/docs/Learn_web_development/Core/Structuring_content/Marking_up_a_letter">Разметка письма</a>
+        </td>
+        <td>
+            <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/letter-markup">
+                letter-markup
+            </a>
+        </td>
+    </tr>
 </table>
