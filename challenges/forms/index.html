@@ -1,0 +1,140 @@
+<!doctype html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <title>Forms challenge</title>
+    <link href="styles/style.css" rel="stylesheet">
+    <script defer src="index.js"></script>
+</head>
+<body>
+
+    <h1>We want your feedback!</h1>
+
+    <p>
+        We're very excited that you visited the <a href="#">little house in the woods</a>,
+        and we want to hear what you thought of it! Please fill in the below
+        sections. You don't need to provide your name or contact details, but
+        if you do, we'll enter you into a <a href="#">prize draw</a> where you'll have a chance
+        to win prizes.
+    </p>
+
+    <img src="https://mdn.github.io/shared-assets/images/examples/learn/woodland-strip.jpg"
+            alt="">
+
+    <form>
+        
+        <div class="form-section">
+            <h2>Facilities</h2>
+
+            <fieldset>
+                <legend>Was the porridge</legend>
+                
+                <input type="radio" id="porridge-hot" name="porridge" checked>
+                <label for="porridge-hot">Too hot?</label>
+
+                <input type="radio" id="porridge-cold" name="porridge">
+                <label for="porridge-cold">Too cold?</label>
+
+                <input type="radio" id="porridge-right" name="porridge">
+                <label for="porridge-right">Just right?</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Were the beds</legend>
+
+                <input type="radio" id="beds-hard" name="beds" checked>
+                <label for="beds-hard">Too hard?</label>
+
+                <input type="radio" id="beds-soft" name="beds">
+                <label for="beds-soft">Too soft?</label>
+
+                <input type="radio" id="beds-right" name="beds">
+                <label for="beds-right">Just right?</label>
+            </fieldset>
+
+            <fieldset>
+                <legend>Describe the chairs (select all you agree with)</legend>
+
+                <input type="checkbox" id="chairs-comfy" name="comfy">
+                <label for="chairs-comfy">Comfy</label>
+
+                <input type="checkbox" id="chairs-luxurious" name="luxurious">
+                <label for="chairs-luxurious">Luxurious</label>
+
+                <input type="checkbox" id="chairs-hi-tech" name="hi-tech">
+                <label for="chairs-hi-tech">Hi-tech</label>
+
+                <input type="checkbox" id="chairs-pretty" name="pretty">
+                <label for="chairs-pretty">Pretty</label>
+
+                <input type="checkbox" id="chairs-majestic" name="majestic">
+                <label for="chairs-majestic">Majestic</label>
+            </fieldset>
+        </div>
+
+        <div class="form-section">
+            <h2>About your hosts</h2>
+
+            <p class="separator">
+                <label for="bears">Who's your favorite bear?</label>
+
+                <select id="bears">
+                    <option value="papa">Papa bear</option>
+                    <option value="mama">Mama bear</option>
+                    <option value="junior">Junior</option>
+                    <option value="dozer">Dozer</option>
+                </select>
+            </p>
+
+            <p class="separator">
+                <label for="greetings">Which greeting did you prefer?</label>
+
+                <select id="greetings">
+                    <option value="wave">Wave</option>
+                    <option value="friendly">Friendly greeting</option>
+                    <option value="growl">Growl</option>
+                    <option value="claw">Claw marks in the door</option>
+                </select>
+            </p>
+        </div>
+
+        <div class="form-section">
+            <h2>Any other feedback?</h2>
+
+            <p>
+                <label for="comments">Give us your comments</label>
+
+                <textarea id="comments"></textarea>
+            </p>
+        </div>
+
+        <div class="form-section">
+            <h2>Your details</h2>
+
+            <p class="separator">
+                <label>Name</label>
+
+                <input type="text" id="name" name="name">
+            </p>
+
+            <p class="separator">
+                <label>Email</label>
+
+                <input type="email" id="email" name="email">
+            </p>
+
+            <p class="separator">
+                <label>Phone</label>
+
+                <input type="tel" id="phone" name="phone">
+            </p>
+        </div>
+
+        <div class="form-section">
+            <button>Submit</button>
+        </div>
+
+    </form>
+    
+</body>
+</html>
