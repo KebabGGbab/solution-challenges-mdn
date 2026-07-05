@@ -10,7 +10,9 @@
     </tr>
     <tr>
         <td>
-            <a href="https://developer.mozilla.org/ru/docs/Learn_web_development/Core/Structuring_content/Marking_up_a_letter">Разметка письма</a>
+            <a href="https://developer.mozilla.org/ru/docs/Learn_web_development/Core/Structuring_content/Marking_up_a_letter">
+                Разметка письма
+            </a>
         </td>
         <td>
             <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/letter-markup">
@@ -20,7 +22,9 @@
     </tr>
     <tr>
         <td>
-            <a href="https://developer.mozilla.org/ru/docs/Learn_web_development/Core/Structuring_content/Structuring_a_page_of_content">Структурирование страницы</a>
+            <a href="https://developer.mozilla.org/ru/docs/Learn_web_development/Core/Structuring_content/Structuring_a_page_of_content">
+                Структурируем страницу
+            </a>
         </td>
         <td>
             <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/structuring-html">
@@ -30,7 +34,9 @@
     </tr>
     <tr>
         <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Splash_page">Заставка</a>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Splash_page">
+                Creepy-crawly splash page
+            </a>
         </td>
         <td>
             <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/splash-page">
@@ -40,7 +46,9 @@
     </tr>
     <tr>
         <td>
-            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Planet_data_table">Structuring a planet data table</a>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Planet_data_table">
+                Structuring a planet data table
+            </a>
         </td>
         <td>
             <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/data-table">
