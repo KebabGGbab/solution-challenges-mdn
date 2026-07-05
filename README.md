@@ -38,4 +38,14 @@
             </a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Planet_data_table">Structuring a planet data table</a>
+        </td>
+        <td>
+            <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/data-table">
+                data-table
+            </a>
+        </td>
+    </tr>
 </table>
