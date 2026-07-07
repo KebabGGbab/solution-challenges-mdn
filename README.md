@@ -56,7 +56,7 @@
             </a>
         </td>
     </tr>
-        <tr>
+    <tr>
         <td>
             <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Structuring_content/Forms_challenge">
                 Structuring a feedback form
@@ -65,6 +65,18 @@
         <td>
             <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/forms">
                 forms
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Styling_a_bio_page">
+                Styling a biography page
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/begin-stylization">
+                begin-stylization
             </a>
         </td>
     </tr>
