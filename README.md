@@ -80,4 +80,16 @@
             </a>
         </td>
     </tr>
+        <tr>
+        <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Fixing_blog_styles">
+                Fixing blog page styles
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/correcting-blog-styles">
+                correcting-blog-styles
+            </a>
+        </td>
+    </tr>
 </table>
