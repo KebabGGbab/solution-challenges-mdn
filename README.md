@@ -92,4 +92,17 @@
             </a>
         </td>
     </tr>
+    </tr>
+        <tr>
+        <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Size_decorate_content_panel">
+                Sizing and decorating a content panel
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/sizing-and-decorating">
+                sizing-and-decorating
+            </a>
+        </td>
+    </tr>
 </table>
