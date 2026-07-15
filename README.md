@@ -105,4 +105,16 @@
             </a>
         </td>
     </tr>
+    <tr>
+        <td>
+            <a href="https://developer.mozilla.org/en-US/docs/Learn_web_development/Core/Styling_basics/Home_color_scheme_search">
+                Styling a home color scheme search app
+            </a>
+        </td>
+        <td>
+            <a href="https://github.com/KebabGGbab/solution-challenges-mdn/tree/main/challenges/final-styling-basics">
+                final-styling-basics
+            </a>
+        </td>
+    </tr>
 </table>
